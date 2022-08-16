@@ -1,2 +1,3 @@
 # fashion
-FontAwesome.otf
+FontAwesome.off
+arr.png
